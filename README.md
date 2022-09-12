@@ -24,9 +24,6 @@ This Rube Goldberg game uses a variety of free asset packs from the Unity Asset 
 The following music was used for this media project:
 
 - Music: Jailbreak Whispers by John Bartmann
-
 - Free download: [https://filmmusic.io/song/9487-jailbreak-whispers](https://filmmusic.io/song/9487-jailbreak-whispers)
-
 - License (CC BY 4.0): [https://filmmusic.io/standard-license](https://filmmusic.io/standard-license)
-
 - Artist website: [https://johnbartmann.com/](https://johnbartmann.com/)
